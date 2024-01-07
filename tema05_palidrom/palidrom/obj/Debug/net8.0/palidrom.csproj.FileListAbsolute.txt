@@ -1,0 +1,15 @@
+D:\1_GitHub\temeCursDotNetSeria9\tema05_palidrom\palidrom\bin\Debug\net8.0\palidrom.exe
+D:\1_GitHub\temeCursDotNetSeria9\tema05_palidrom\palidrom\bin\Debug\net8.0\palidrom.deps.json
+D:\1_GitHub\temeCursDotNetSeria9\tema05_palidrom\palidrom\bin\Debug\net8.0\palidrom.runtimeconfig.json
+D:\1_GitHub\temeCursDotNetSeria9\tema05_palidrom\palidrom\bin\Debug\net8.0\palidrom.dll
+D:\1_GitHub\temeCursDotNetSeria9\tema05_palidrom\palidrom\bin\Debug\net8.0\palidrom.pdb
+D:\1_GitHub\temeCursDotNetSeria9\tema05_palidrom\palidrom\obj\Debug\net8.0\palidrom.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_GitHub\temeCursDotNetSeria9\tema05_palidrom\palidrom\obj\Debug\net8.0\palidrom.AssemblyInfoInputs.cache
+D:\1_GitHub\temeCursDotNetSeria9\tema05_palidrom\palidrom\obj\Debug\net8.0\palidrom.AssemblyInfo.cs
+D:\1_GitHub\temeCursDotNetSeria9\tema05_palidrom\palidrom\obj\Debug\net8.0\palidrom.csproj.CoreCompileInputs.cache
+D:\1_GitHub\temeCursDotNetSeria9\tema05_palidrom\palidrom\obj\Debug\net8.0\palidrom.sourcelink.json
+D:\1_GitHub\temeCursDotNetSeria9\tema05_palidrom\palidrom\obj\Debug\net8.0\palidrom.dll
+D:\1_GitHub\temeCursDotNetSeria9\tema05_palidrom\palidrom\obj\Debug\net8.0\refint\palidrom.dll
+D:\1_GitHub\temeCursDotNetSeria9\tema05_palidrom\palidrom\obj\Debug\net8.0\palidrom.pdb
+D:\1_GitHub\temeCursDotNetSeria9\tema05_palidrom\palidrom\obj\Debug\net8.0\palidrom.genruntimeconfig.cache
+D:\1_GitHub\temeCursDotNetSeria9\tema05_palidrom\palidrom\obj\Debug\net8.0\ref\palidrom.dll
