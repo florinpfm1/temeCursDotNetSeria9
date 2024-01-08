@@ -1,0 +1,15 @@
+D:\1_GitHub\temeCursDotNetSeria9\tema07_find_number_in_existing_array\FindNumberInArray\bin\Debug\net8.0\FindNumberInArray.exe
+D:\1_GitHub\temeCursDotNetSeria9\tema07_find_number_in_existing_array\FindNumberInArray\bin\Debug\net8.0\FindNumberInArray.deps.json
+D:\1_GitHub\temeCursDotNetSeria9\tema07_find_number_in_existing_array\FindNumberInArray\bin\Debug\net8.0\FindNumberInArray.runtimeconfig.json
+D:\1_GitHub\temeCursDotNetSeria9\tema07_find_number_in_existing_array\FindNumberInArray\bin\Debug\net8.0\FindNumberInArray.dll
+D:\1_GitHub\temeCursDotNetSeria9\tema07_find_number_in_existing_array\FindNumberInArray\bin\Debug\net8.0\FindNumberInArray.pdb
+D:\1_GitHub\temeCursDotNetSeria9\tema07_find_number_in_existing_array\FindNumberInArray\obj\Debug\net8.0\FindNumberInArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_GitHub\temeCursDotNetSeria9\tema07_find_number_in_existing_array\FindNumberInArray\obj\Debug\net8.0\FindNumberInArray.AssemblyInfoInputs.cache
+D:\1_GitHub\temeCursDotNetSeria9\tema07_find_number_in_existing_array\FindNumberInArray\obj\Debug\net8.0\FindNumberInArray.AssemblyInfo.cs
+D:\1_GitHub\temeCursDotNetSeria9\tema07_find_number_in_existing_array\FindNumberInArray\obj\Debug\net8.0\FindNumberInArray.csproj.CoreCompileInputs.cache
+D:\1_GitHub\temeCursDotNetSeria9\tema07_find_number_in_existing_array\FindNumberInArray\obj\Debug\net8.0\FindNumberInArray.sourcelink.json
+D:\1_GitHub\temeCursDotNetSeria9\tema07_find_number_in_existing_array\FindNumberInArray\obj\Debug\net8.0\FindNumberInArray.dll
+D:\1_GitHub\temeCursDotNetSeria9\tema07_find_number_in_existing_array\FindNumberInArray\obj\Debug\net8.0\refint\FindNumberInArray.dll
+D:\1_GitHub\temeCursDotNetSeria9\tema07_find_number_in_existing_array\FindNumberInArray\obj\Debug\net8.0\FindNumberInArray.pdb
+D:\1_GitHub\temeCursDotNetSeria9\tema07_find_number_in_existing_array\FindNumberInArray\obj\Debug\net8.0\FindNumberInArray.genruntimeconfig.cache
+D:\1_GitHub\temeCursDotNetSeria9\tema07_find_number_in_existing_array\FindNumberInArray\obj\Debug\net8.0\ref\FindNumberInArray.dll
