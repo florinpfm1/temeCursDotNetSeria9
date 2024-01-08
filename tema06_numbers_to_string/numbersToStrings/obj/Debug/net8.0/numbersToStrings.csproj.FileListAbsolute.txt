@@ -1,0 +1,15 @@
+D:\1_GitHub\temeCursDotNetSeria9\tema06_numbers_to_string\numbersToStrings\bin\Debug\net8.0\numbersToStrings.exe
+D:\1_GitHub\temeCursDotNetSeria9\tema06_numbers_to_string\numbersToStrings\bin\Debug\net8.0\numbersToStrings.deps.json
+D:\1_GitHub\temeCursDotNetSeria9\tema06_numbers_to_string\numbersToStrings\bin\Debug\net8.0\numbersToStrings.runtimeconfig.json
+D:\1_GitHub\temeCursDotNetSeria9\tema06_numbers_to_string\numbersToStrings\bin\Debug\net8.0\numbersToStrings.dll
+D:\1_GitHub\temeCursDotNetSeria9\tema06_numbers_to_string\numbersToStrings\bin\Debug\net8.0\numbersToStrings.pdb
+D:\1_GitHub\temeCursDotNetSeria9\tema06_numbers_to_string\numbersToStrings\obj\Debug\net8.0\numbersToStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_GitHub\temeCursDotNetSeria9\tema06_numbers_to_string\numbersToStrings\obj\Debug\net8.0\numbersToStrings.AssemblyInfoInputs.cache
+D:\1_GitHub\temeCursDotNetSeria9\tema06_numbers_to_string\numbersToStrings\obj\Debug\net8.0\numbersToStrings.AssemblyInfo.cs
+D:\1_GitHub\temeCursDotNetSeria9\tema06_numbers_to_string\numbersToStrings\obj\Debug\net8.0\numbersToStrings.csproj.CoreCompileInputs.cache
+D:\1_GitHub\temeCursDotNetSeria9\tema06_numbers_to_string\numbersToStrings\obj\Debug\net8.0\numbersToStrings.sourcelink.json
+D:\1_GitHub\temeCursDotNetSeria9\tema06_numbers_to_string\numbersToStrings\obj\Debug\net8.0\numbersToStrings.dll
+D:\1_GitHub\temeCursDotNetSeria9\tema06_numbers_to_string\numbersToStrings\obj\Debug\net8.0\refint\numbersToStrings.dll
+D:\1_GitHub\temeCursDotNetSeria9\tema06_numbers_to_string\numbersToStrings\obj\Debug\net8.0\numbersToStrings.pdb
+D:\1_GitHub\temeCursDotNetSeria9\tema06_numbers_to_string\numbersToStrings\obj\Debug\net8.0\numbersToStrings.genruntimeconfig.cache
+D:\1_GitHub\temeCursDotNetSeria9\tema06_numbers_to_string\numbersToStrings\obj\Debug\net8.0\ref\numbersToStrings.dll
