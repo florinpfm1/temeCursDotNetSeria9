@@ -1,0 +1,15 @@
+D:\1_GitHub\temeCursDotNetSeria9\tema08_hide_email\HideEmail\bin\Debug\net8.0\HideEmail.exe
+D:\1_GitHub\temeCursDotNetSeria9\tema08_hide_email\HideEmail\bin\Debug\net8.0\HideEmail.deps.json
+D:\1_GitHub\temeCursDotNetSeria9\tema08_hide_email\HideEmail\bin\Debug\net8.0\HideEmail.runtimeconfig.json
+D:\1_GitHub\temeCursDotNetSeria9\tema08_hide_email\HideEmail\bin\Debug\net8.0\HideEmail.dll
+D:\1_GitHub\temeCursDotNetSeria9\tema08_hide_email\HideEmail\bin\Debug\net8.0\HideEmail.pdb
+D:\1_GitHub\temeCursDotNetSeria9\tema08_hide_email\HideEmail\obj\Debug\net8.0\HideEmail.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_GitHub\temeCursDotNetSeria9\tema08_hide_email\HideEmail\obj\Debug\net8.0\HideEmail.AssemblyInfoInputs.cache
+D:\1_GitHub\temeCursDotNetSeria9\tema08_hide_email\HideEmail\obj\Debug\net8.0\HideEmail.AssemblyInfo.cs
+D:\1_GitHub\temeCursDotNetSeria9\tema08_hide_email\HideEmail\obj\Debug\net8.0\HideEmail.csproj.CoreCompileInputs.cache
+D:\1_GitHub\temeCursDotNetSeria9\tema08_hide_email\HideEmail\obj\Debug\net8.0\HideEmail.sourcelink.json
+D:\1_GitHub\temeCursDotNetSeria9\tema08_hide_email\HideEmail\obj\Debug\net8.0\HideEmail.dll
+D:\1_GitHub\temeCursDotNetSeria9\tema08_hide_email\HideEmail\obj\Debug\net8.0\refint\HideEmail.dll
+D:\1_GitHub\temeCursDotNetSeria9\tema08_hide_email\HideEmail\obj\Debug\net8.0\HideEmail.pdb
+D:\1_GitHub\temeCursDotNetSeria9\tema08_hide_email\HideEmail\obj\Debug\net8.0\HideEmail.genruntimeconfig.cache
+D:\1_GitHub\temeCursDotNetSeria9\tema08_hide_email\HideEmail\obj\Debug\net8.0\ref\HideEmail.dll
