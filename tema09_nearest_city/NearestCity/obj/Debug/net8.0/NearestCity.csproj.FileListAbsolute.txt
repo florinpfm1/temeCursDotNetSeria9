@@ -1,0 +1,15 @@
+D:\1_GitHub\temeCursDotNetSeria9\tema09_nearest_city\NearestCity\bin\Debug\net8.0\NearestCity.exe
+D:\1_GitHub\temeCursDotNetSeria9\tema09_nearest_city\NearestCity\bin\Debug\net8.0\NearestCity.deps.json
+D:\1_GitHub\temeCursDotNetSeria9\tema09_nearest_city\NearestCity\bin\Debug\net8.0\NearestCity.runtimeconfig.json
+D:\1_GitHub\temeCursDotNetSeria9\tema09_nearest_city\NearestCity\bin\Debug\net8.0\NearestCity.dll
+D:\1_GitHub\temeCursDotNetSeria9\tema09_nearest_city\NearestCity\bin\Debug\net8.0\NearestCity.pdb
+D:\1_GitHub\temeCursDotNetSeria9\tema09_nearest_city\NearestCity\obj\Debug\net8.0\NearestCity.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_GitHub\temeCursDotNetSeria9\tema09_nearest_city\NearestCity\obj\Debug\net8.0\NearestCity.AssemblyInfoInputs.cache
+D:\1_GitHub\temeCursDotNetSeria9\tema09_nearest_city\NearestCity\obj\Debug\net8.0\NearestCity.AssemblyInfo.cs
+D:\1_GitHub\temeCursDotNetSeria9\tema09_nearest_city\NearestCity\obj\Debug\net8.0\NearestCity.csproj.CoreCompileInputs.cache
+D:\1_GitHub\temeCursDotNetSeria9\tema09_nearest_city\NearestCity\obj\Debug\net8.0\NearestCity.sourcelink.json
+D:\1_GitHub\temeCursDotNetSeria9\tema09_nearest_city\NearestCity\obj\Debug\net8.0\NearestCity.dll
+D:\1_GitHub\temeCursDotNetSeria9\tema09_nearest_city\NearestCity\obj\Debug\net8.0\refint\NearestCity.dll
+D:\1_GitHub\temeCursDotNetSeria9\tema09_nearest_city\NearestCity\obj\Debug\net8.0\NearestCity.pdb
+D:\1_GitHub\temeCursDotNetSeria9\tema09_nearest_city\NearestCity\obj\Debug\net8.0\NearestCity.genruntimeconfig.cache
+D:\1_GitHub\temeCursDotNetSeria9\tema09_nearest_city\NearestCity\obj\Debug\net8.0\ref\NearestCity.dll
