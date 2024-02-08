@@ -1,0 +1,15 @@
+D:\1_GitHub\temeCursDotNetSeria9\tema11_light\Light\bin\Debug\net8.0\Light.exe
+D:\1_GitHub\temeCursDotNetSeria9\tema11_light\Light\bin\Debug\net8.0\Light.deps.json
+D:\1_GitHub\temeCursDotNetSeria9\tema11_light\Light\bin\Debug\net8.0\Light.runtimeconfig.json
+D:\1_GitHub\temeCursDotNetSeria9\tema11_light\Light\bin\Debug\net8.0\Light.dll
+D:\1_GitHub\temeCursDotNetSeria9\tema11_light\Light\bin\Debug\net8.0\Light.pdb
+D:\1_GitHub\temeCursDotNetSeria9\tema11_light\Light\obj\Debug\net8.0\Light.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_GitHub\temeCursDotNetSeria9\tema11_light\Light\obj\Debug\net8.0\Light.AssemblyInfoInputs.cache
+D:\1_GitHub\temeCursDotNetSeria9\tema11_light\Light\obj\Debug\net8.0\Light.AssemblyInfo.cs
+D:\1_GitHub\temeCursDotNetSeria9\tema11_light\Light\obj\Debug\net8.0\Light.csproj.CoreCompileInputs.cache
+D:\1_GitHub\temeCursDotNetSeria9\tema11_light\Light\obj\Debug\net8.0\Light.sourcelink.json
+D:\1_GitHub\temeCursDotNetSeria9\tema11_light\Light\obj\Debug\net8.0\Light.dll
+D:\1_GitHub\temeCursDotNetSeria9\tema11_light\Light\obj\Debug\net8.0\refint\Light.dll
+D:\1_GitHub\temeCursDotNetSeria9\tema11_light\Light\obj\Debug\net8.0\Light.pdb
+D:\1_GitHub\temeCursDotNetSeria9\tema11_light\Light\obj\Debug\net8.0\Light.genruntimeconfig.cache
+D:\1_GitHub\temeCursDotNetSeria9\tema11_light\Light\obj\Debug\net8.0\ref\Light.dll
