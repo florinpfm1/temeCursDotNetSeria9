@@ -1,0 +1,15 @@
+D:\1_GitHub\temeCursDotNetSeria9\tema10_class_students\ClassStudentAssignment\bin\Debug\net8.0\ClassStudentAssignment.exe
+D:\1_GitHub\temeCursDotNetSeria9\tema10_class_students\ClassStudentAssignment\bin\Debug\net8.0\ClassStudentAssignment.deps.json
+D:\1_GitHub\temeCursDotNetSeria9\tema10_class_students\ClassStudentAssignment\bin\Debug\net8.0\ClassStudentAssignment.runtimeconfig.json
+D:\1_GitHub\temeCursDotNetSeria9\tema10_class_students\ClassStudentAssignment\bin\Debug\net8.0\ClassStudentAssignment.dll
+D:\1_GitHub\temeCursDotNetSeria9\tema10_class_students\ClassStudentAssignment\bin\Debug\net8.0\ClassStudentAssignment.pdb
+D:\1_GitHub\temeCursDotNetSeria9\tema10_class_students\ClassStudentAssignment\obj\Debug\net8.0\ClassStudentAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_GitHub\temeCursDotNetSeria9\tema10_class_students\ClassStudentAssignment\obj\Debug\net8.0\ClassStudentAssignment.AssemblyInfoInputs.cache
+D:\1_GitHub\temeCursDotNetSeria9\tema10_class_students\ClassStudentAssignment\obj\Debug\net8.0\ClassStudentAssignment.AssemblyInfo.cs
+D:\1_GitHub\temeCursDotNetSeria9\tema10_class_students\ClassStudentAssignment\obj\Debug\net8.0\ClassStudentAssignment.csproj.CoreCompileInputs.cache
+D:\1_GitHub\temeCursDotNetSeria9\tema10_class_students\ClassStudentAssignment\obj\Debug\net8.0\ClassStudentAssignment.sourcelink.json
+D:\1_GitHub\temeCursDotNetSeria9\tema10_class_students\ClassStudentAssignment\obj\Debug\net8.0\ClassStudentAssignment.dll
+D:\1_GitHub\temeCursDotNetSeria9\tema10_class_students\ClassStudentAssignment\obj\Debug\net8.0\refint\ClassStudentAssignment.dll
+D:\1_GitHub\temeCursDotNetSeria9\tema10_class_students\ClassStudentAssignment\obj\Debug\net8.0\ClassStudentAssignment.pdb
+D:\1_GitHub\temeCursDotNetSeria9\tema10_class_students\ClassStudentAssignment\obj\Debug\net8.0\ClassStudentAssignment.genruntimeconfig.cache
+D:\1_GitHub\temeCursDotNetSeria9\tema10_class_students\ClassStudentAssignment\obj\Debug\net8.0\ref\ClassStudentAssignment.dll
