@@ -1,0 +1,15 @@
+D:\1_GitHub\temeCursDotNetSeria9\tema12_dog_with_exceptions\DogWithExceptions\bin\Debug\net8.0\DogWithExceptions.exe
+D:\1_GitHub\temeCursDotNetSeria9\tema12_dog_with_exceptions\DogWithExceptions\bin\Debug\net8.0\DogWithExceptions.deps.json
+D:\1_GitHub\temeCursDotNetSeria9\tema12_dog_with_exceptions\DogWithExceptions\bin\Debug\net8.0\DogWithExceptions.runtimeconfig.json
+D:\1_GitHub\temeCursDotNetSeria9\tema12_dog_with_exceptions\DogWithExceptions\bin\Debug\net8.0\DogWithExceptions.dll
+D:\1_GitHub\temeCursDotNetSeria9\tema12_dog_with_exceptions\DogWithExceptions\bin\Debug\net8.0\DogWithExceptions.pdb
+D:\1_GitHub\temeCursDotNetSeria9\tema12_dog_with_exceptions\DogWithExceptions\obj\Debug\net8.0\DogWithExceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_GitHub\temeCursDotNetSeria9\tema12_dog_with_exceptions\DogWithExceptions\obj\Debug\net8.0\DogWithExceptions.AssemblyInfoInputs.cache
+D:\1_GitHub\temeCursDotNetSeria9\tema12_dog_with_exceptions\DogWithExceptions\obj\Debug\net8.0\DogWithExceptions.AssemblyInfo.cs
+D:\1_GitHub\temeCursDotNetSeria9\tema12_dog_with_exceptions\DogWithExceptions\obj\Debug\net8.0\DogWithExceptions.csproj.CoreCompileInputs.cache
+D:\1_GitHub\temeCursDotNetSeria9\tema12_dog_with_exceptions\DogWithExceptions\obj\Debug\net8.0\DogWithExceptions.sourcelink.json
+D:\1_GitHub\temeCursDotNetSeria9\tema12_dog_with_exceptions\DogWithExceptions\obj\Debug\net8.0\DogWithExceptions.dll
+D:\1_GitHub\temeCursDotNetSeria9\tema12_dog_with_exceptions\DogWithExceptions\obj\Debug\net8.0\refint\DogWithExceptions.dll
+D:\1_GitHub\temeCursDotNetSeria9\tema12_dog_with_exceptions\DogWithExceptions\obj\Debug\net8.0\DogWithExceptions.pdb
+D:\1_GitHub\temeCursDotNetSeria9\tema12_dog_with_exceptions\DogWithExceptions\obj\Debug\net8.0\DogWithExceptions.genruntimeconfig.cache
+D:\1_GitHub\temeCursDotNetSeria9\tema12_dog_with_exceptions\DogWithExceptions\obj\Debug\net8.0\ref\DogWithExceptions.dll
